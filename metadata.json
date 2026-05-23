@@ -1,0 +1,10 @@
+{
+  "name": "Productive Task & Workspace Assistant",
+  "description": "An advanced, unified workspace to-do list with Google Calendar sync, Meet link creator, Google Contacts caller, AI voice assistant, and task-linked Spotify productivity playlists.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
